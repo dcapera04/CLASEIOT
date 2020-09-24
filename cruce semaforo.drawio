@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T23:32:15.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KNOpW0nm9mAfRk8Vu6QN" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T23:44:40.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8_Jp_bj27YOafcgDB5e0" version="13.7.3" type="github">
   <diagram id="KB32Bpzx1HNIWIFh3gn_" name="Page-1">
     <mxGraphModel dx="1593" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
               <mxPoint x="50" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e4p7nlFZOUFq5OssbvfT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3o37u2ekzVFeCQ_OCCV-3" target="e4p7nlFZOUFq5OssbvfT-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O3o37u2ekzVFeCQ_OCCV-3" value="loop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
@@ -205,6 +208,9 @@
         </mxCell>
         <mxCell id="VGeh4uAr9P2AFSkJI__z-39" value="espera 5 segundos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e4p7nlFZOUFq5OssbvfT-1" value="Apaga led amarillo 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
