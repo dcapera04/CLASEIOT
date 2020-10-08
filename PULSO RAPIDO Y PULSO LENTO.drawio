@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T18:20:25.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.7.7" etag="kcJUh7VKqvlTAltTcyow" type="github"><diagram id="dW_Hy8ywPuoNAzQDYjEf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-08T18:27:17.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="6vms8A49hfsVoWJ13jUS" version="13.7.7" type="github">
+  <diagram id="dW_Hy8ywPuoNAzQDYjEf" name="Page-1">
+    <mxGraphModel dx="1935" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-1" target="kFa3_t9rfJCyKEs4GGRD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-1" target="kFa3_t9rfJCyKEs4GGRD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;inicio&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;definir pin&lt;br&gt;definir pulso 1 y pulso 2&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-4" target="kFa3_t9rfJCyKEs4GGRD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-4" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-5" target="kFa3_t9rfJCyKEs4GGRD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-5" target="kFa3_t9rfJCyKEs4GGRD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-5" value="seleccione" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-6" target="kFa3_t9rfJCyKEs4GGRD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-6" value="pulso 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-7" target="kFa3_t9rfJCyKEs4GGRD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-7" value="pulso 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-8" target="kFa3_t9rfJCyKEs4GGRD-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="580" />
+              <mxPoint y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-8" value="enciende led intermitente rapido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFa3_t9rfJCyKEs4GGRD-9" target="kFa3_t9rfJCyKEs4GGRD-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="590" />
+              <mxPoint x="490" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFa3_t9rfJCyKEs4GGRD-9" value="&lt;span&gt;enciende led intermitente lento&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
